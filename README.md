@@ -39,7 +39,7 @@ churn analysis summary.pdf – Summary of insights and conclusions
 
 Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python (Pandas, NumPy, Matplotlib, Seaborn)    
 Jupyter Notebook
 
 
